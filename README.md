@@ -1,6 +1,7 @@
 # guava-test
 
-Test of the Guava Java library [http://code.google.com/p/guava-libraries/]
+Test of the Guava Java library [http://code.google.com/p/guava-libraries/]  
+Guava 15 needs Java 6.
 
 
 ## Maven
@@ -17,5 +18,6 @@ Dependency :
 
 ## References
 
-* http://thierry-leriche-dessirier.developpez.com/tutoriels/java/guava/utilitaires/ (french)
+* [Guava Wiki](http://code.google.com/p/guava-libraries/wiki/GuavaExplained)
+* [Tutoriel d'introduction aux utilitaires de Guava](http://thierry-leriche-dessirier.developpez.com/tutoriels/java/guava/utilitaires/) (french)
 * 
